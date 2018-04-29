@@ -1,0 +1,21 @@
+{
+  "name": "tpm",
+  "version": "1.0.0",
+  "description": "this is class 3 example ",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "express",
+    "handlebars",
+    "npm"
+  ],
+  "author": "Cesar Casas <cesarcasas@bsdsolutions.com.ar> (https://ar.linkedin.com/in/cesarcasas)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0"
+  }
+}
